@@ -1,0 +1,38 @@
+td{
+    width: 80px;
+    height: 50px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+.title{
+    background-color: cornflowerblue;
+    font-weight: 600;
+}
+
+.li1{
+    background-color: cornflowerblue;
+}
+
+td:first-child{
+    background-color: cornflowerblue;
+}
+tr{
+    font-weight: 600;
+}
+.t2{
+    background-color: cyan;
+}
+.t4{
+    background-color: cyan;
+}
+.t6{
+    background-color: cyan;
+}
+.t8{
+    background-color: cyan ;
+}
+body{
+    background-color: silver;
+}
